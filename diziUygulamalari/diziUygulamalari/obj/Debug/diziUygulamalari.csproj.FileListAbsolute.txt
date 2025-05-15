@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\bin\Debug\diziUygulamalari.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\bin\Debug\diziUygulamalari.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\bin\Debug\diziUygulamalari.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\diziUygulamalari\diziUygulamalari\obj\Debug\diziUygulamalari.pdb

@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\bin\Debug\ArraylistUygulamasi.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\bin\Debug\ArraylistUygulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\bin\Debug\ArraylistUygulamasi.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ArraylistUygulamasi\ArraylistUygulamasi\obj\Debug\ArraylistUygulamasi.pdb

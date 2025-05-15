@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\bin\Debug\DiziFormOyunu.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\bin\Debug\DiziFormOyunu.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\bin\Debug\DiziFormOyunu.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DiziFormOyunu\DiziFormOyunu\obj\Debug\DiziFormOyunu.pdb
