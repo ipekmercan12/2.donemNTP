@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\bin\Debug\DizilerdeKullanilanMetotlar.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\bin\Debug\DizilerdeKullanilanMetotlar.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\bin\Debug\DizilerdeKullanilanMetotlar.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\DizilerdeKullanilanMetotlar\DizilerdeKullanilanMetotlar\obj\Debug\DizilerdeKullanilanMetotlar.pdb
