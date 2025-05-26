@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\bin\Debug\ikiBoyutluSozluDiziUygulamasi.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\bin\Debug\ikiBoyutluSozluDiziUygulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\bin\Debug\ikiBoyutluSozluDiziUygulamasi.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ikiBoyutluSozluDiziUygulamasi\ikiBoyutluSozluDiziUygulamasi\obj\Debug\ikiBoyutluSozluDiziUygulamasi.pdb

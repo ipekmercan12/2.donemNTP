@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUtgulamasi", "QueueUtgulamasi\QueueUtgulamasi.csproj", "{07174C6D-B5C9-45FC-B848-C42EE6A3BA0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07174C6D-B5C9-45FC-B848-C42EE6A3BA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07174C6D-B5C9-45FC-B848-C42EE6A3BA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07174C6D-B5C9-45FC-B848-C42EE6A3BA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07174C6D-B5C9-45FC-B848-C42EE6A3BA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B71B07B-E922-4188-A65B-6A863FA4F1BB}
+	EndGlobalSection
+EndGlobal

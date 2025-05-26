@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\bin\Debug\QueueUtgulamasi.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\bin\Debug\QueueUtgulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\bin\Debug\QueueUtgulamasi.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\QueueUtgulamasi\QueueUtgulamasi\obj\Debug\QueueUtgulamasi.pdb

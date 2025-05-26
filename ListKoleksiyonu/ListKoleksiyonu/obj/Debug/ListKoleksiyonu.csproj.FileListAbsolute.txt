@@ -1,0 +1,10 @@
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.csproj.AssemblyReference.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.Form1.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.Properties.Resources.resources
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.csproj.GenerateResource.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\bin\Debug\ListKoleksiyonu.exe.config
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\bin\Debug\ListKoleksiyonu.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\bin\Debug\ListKoleksiyonu.pdb
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.exe
+C:\Users\ipekm\OneDrive\Masaüstü\NTP 2. DÖNEM\ListKoleksiyonu\ListKoleksiyonu\obj\Debug\ListKoleksiyonu.pdb
